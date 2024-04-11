@@ -2,13 +2,9 @@
 % https://github.com/SarahMorgan/Morphometric_Similarity_SZ/blob/master/Gene_analyses.md
 % and Mapping gene transcription and neurocognition  across human neocortex
 
-% This script runs PLS on gene expression and neurosynth probability maps.
+% This script runs PLS on gene expression and glioma distribution maps.
 % Significance of latent variables is assessed using a
-% spatial autocorrelation-preserving permutation test. Correlation between
-% gene and term scores are cross-validated using a distance-based set
-% assignment (see fcn_crossval_pls_brain_obvs.m). Most contributing terms
-% are retained and scores are distributed among structural and functional
-% networks.
+% spatial autocorrelation-preserving permutation test.
 
 % PLS code (pls_analysis.m) can be downloaded at
 % http://pls.rotman-baycrest.on.ca/source/ ("Latest PLS Applications")
