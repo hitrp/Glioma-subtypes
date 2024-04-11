@@ -1,2 +1,2 @@
 # Glioma-subtypes
-Multi-scale attribute of glioma subtypes
+Script for "Multi-scale Brain Attributes Contribute to the Distribution of Diffuse Glioma Subtypes"
